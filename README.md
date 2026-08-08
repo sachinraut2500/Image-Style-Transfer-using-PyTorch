@@ -8,7 +8,8 @@ This project applies artistic style transfer to images using a pretrained VGG19 
 
 ```bash
 pip install torch torchvision matplotlib pillow
-----------
+
+-----------
 
 
 
